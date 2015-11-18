@@ -7,6 +7,7 @@ Demo: http://jsfiddle.net/cbueno/dw7f9dru/1/
 
 Usage:
 
+```html
 <head>
         <link rel="stylesheet" type="text/css" href="css/jQuery.Tree.css" />
 </head>
@@ -41,5 +42,6 @@ Usage:
                 });
         </script>
 </body>
+```
 
 Available "as is", works in FF3.5, IE8, Chrome 4 (others not tested). 
